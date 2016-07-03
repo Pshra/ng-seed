@@ -1,0 +1,47 @@
+body{
+  background-color: #031017;
+}
+
+
+h1{
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #B9090B;
+  font-family: Broadway;
+}
+
+footer{
+  margin-top: 250px;
+  color: #F7F7F7;
+}
+
+h2{
+  font-weight:bold;
+  color: #F7F7F7;
+  font-family: "Berlin Sans FB";
+  margin-left: 50px;
+}
+
+.mo1,.mo3,.mo5,.mo7{
+  display: inline-block;
+  box-sizing: border-box;
+  margin-left: 50px;
+
+}
+
+.mo1:hover,.mo2:hover,.mo3:hover,.mo4:hover,.mo5:hover,.mo6:hover,.mo7:hover,.mo8:hover{
+  transform: scale(1.2);
+}
+
+.mo2,.mo4,.mo6,.mo8{
+  margin: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+
+}
+
+
+
+

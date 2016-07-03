@@ -1,0 +1,113 @@
+
+body{
+  background-image: url("http://wallup.net/wp-content/uploads/2016/03/09/188995-Tangled-animated_movies.jpg");
+
+}
+
+#registerBtn{
+  background-color:#B9090B;
+  font-family:Helvetica,Arial,sans-serif;
+  color:white;
+  max-width:100%;
+  font-size:18px;
+  text-align:center;
+  box-sizing:border-box;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-color:white;
+  width:380px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  padding-bottom:16px;
+  min-width:98px;
+  min-height:37px;
+  margin:10px;
+  border-color: #B9090B;
+}
+
+.header{
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  color: #B9090B;
+  font-family: Broadway;
+}
+
+
+
+
+.inputField{
+
+  color:black;
+  width:380px;
+  height:44px;
+  max-width:100%;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  padding-bottom:16px;
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:18px;
+  box-sizing:border-box;
+  font-weight:normal;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  margin:10px;
+}
+
+
+.createLabel{
+  font-family:Helvetica,Arial,sans-serif;
+  font-size:18px;
+  margin: 10px;
+  color:white;
+}
+
+
+h1{
+
+  font-family:Helvetica,Arial,sans-serif;
+  color:white;
+  margin:10px;
+  font-weight:normal;
+ }
+
+
+.container{
+
+  background-color: #B9090B;
+  margin-top: 100px;
+  width: 400px;
+  padding-left:16px;
+  padding-right:16px;
+  padding-top:16px;
+  padding-bottom:16px;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  opacity: 0.9;
+
+}
+
+h2{
+
+  color: #031017;
+  margin-top: 100px;
+  float: right;
+  font-size: 50px;
+  font-family: "Berlin Sans FB";
+  width: 350px;
+
+}
+
+footer{
+  margin-top: 250px;
+}
+
